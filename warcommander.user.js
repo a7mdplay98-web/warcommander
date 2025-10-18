@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         War Commander Mod Pro + سسس/RemoteLoader
+// @name         War Commander Mod Pro + 
 // @namespace    https://github.com/a7mdplay98-web/warcommander
 // @version      1.6
 // @description  سكربت War Commander مع تعديل اللعبة + نظام تحديث وإمكانية تحميل سكربت خارجي مثل Dr Ahmed
@@ -269,4 +269,5 @@
     // ========= نهاية السكربت الرئيسي =========
 
 })();
+
 
